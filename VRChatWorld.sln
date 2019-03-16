@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChatWorld", "VRChatWorld.csproj", "{B2AAE387-4221-B5F9-C937-94FFC07FC98A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChatWorld.Editor", "VRChatWorld.Editor.csproj", "{DB553676-AAE0-A8E5-8B11-500C49FF7692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AAE387-4221-B5F9-C937-94FFC07FC98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AAE387-4221-B5F9-C937-94FFC07FC98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AAE387-4221-B5F9-C937-94FFC07FC98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AAE387-4221-B5F9-C937-94FFC07FC98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB553676-AAE0-A8E5-8B11-500C49FF7692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB553676-AAE0-A8E5-8B11-500C49FF7692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB553676-AAE0-A8E5-8B11-500C49FF7692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB553676-AAE0-A8E5-8B11-500C49FF7692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/jones/AppData/Local/Temp/DefaultCompany/VRChatWorld/customscene.vrcw
+SceneListBegin?
+Assets/_Assets/Scenes/DefaultScene.unity
+SceneListEnd?
+a2313de45ed47f1a12bb2d80e8b2de54 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+b8f057a5d96b66234b3230a0d800dcf6 UnityEngine.UI.dll:UnityEngine.UI.Image
+769e576fcd3f60fa29a2cccb9e8127d9 UnityEngine.UI.dll:UnityEngine.UI.Text
+0b0399c4b7b49c440fa718ace4ac585a UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+ed2f55581dee6a32311eddab9a27bfcd VRCCore-Editor.dll:VRC.Core.PipelineManager
+dfb2ee34c96eab49a053b7f6e0073e0c VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+12f8e90872dd6d0a61309de3a260758b VRCSDK2.dll:VRCSDK2.VRC_AvatarPedestal
+53a83fce1454f88bc808138f420c86ff VRCSDK2.dll:VRCSDK2.VRC_ObjectSync
+9d21e985d6d6240957e73aafa2030ea7 VRCSDK2.dll:VRCSDK2.VRC_Pickup
+28d54b16f7daf5c491c51a114735fcc7 VRCSDK2.dll:VRCSDK2.VRC_PortalMarker
+84003f81a91ba4f82d583c009c6d7263 VRCSDK2.dll:VRCSDK2.VRC_SyncVideoPlayer
+b1ef07826cf216b28adf871baa95ec6a VRCSDK2.dll:VRCSDK2.VRC_MirrorReflection
+03280f1ae5f02bf306f43f2d54978fcd VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
+17638e1e6d062f07c30a31ae86208751 VRCSDK2.dll:VRCSDK2.VRC_SpecialLayer
+05688ba35204434725d66d336ae00e41 VRCSDK2.dll:VRCSDK2.VRC_Station
+4a280e79c5a035824f0c0aabcae1232f VRCSDK2.dll:VRCSDK2.VRC_Trigger
+eb3da15c32b68d9f52c60dbb287d76b1 Assembly-CSharp.dll:.ONSPAudioSource
